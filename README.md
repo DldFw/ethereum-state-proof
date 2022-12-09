@@ -8,7 +8,7 @@ This repository contains Ethereum Light-Client State Proof project. In particula
 
 ## Documentation
 
-Project documentation, circuit definitions, API references etc can be found at https://github.com/nilfoundation/ethereum-state-proof/docs.
+Project documentation, circuit definitions, API references etc can be found at https://github.com/NilFoundation/ethereum-state-proof/tree/master/docs.
 
 ## State Proof Generator (`state-proof-gen`)
 
